@@ -1,16 +1,7 @@
 # solo_flutter
 
-A new Flutter project.
+Simple project untuk awal test masuk pekerjaan di TOG indonesia
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+saya menggunakan provider secara sederhana untuk membypass data dari screen 2 ke screen 1. kemudian saya meng-inisiasi timer pada init state saat sudah melewati 60 detik dalam pengisian form maka tombol submit tidak akan bisa di tekan.
